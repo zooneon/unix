@@ -2,6 +2,7 @@
 #include<sys/types.h>
 #include<fcntl.h>
 #include<unistd.h>
+#include<stdlib.h>
 
 int main(int argc, char **argv) {
         char buf[512];
@@ -16,5 +17,5 @@ int main(int argc, char **argv) {
                 write(1, buf, n);
         }
 
-        return 0;
+        exit(0);
 }
