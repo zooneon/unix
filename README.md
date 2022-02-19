@@ -2,6 +2,13 @@
 유닉스 프로그래밍 수업을 들으며 작성한 코드들을 정리한 repo입니다.<br/>
 시스템콜을 이용하여 간단한 명령들을 만들어보았습니다.<br/>
 
+### [pipe](/pipe)
+### [FIFO](/FIFO)
+### [message queue](/message%20queue)
+### [shared memory](/shared%20memory)
+### [semaphore](/semaphore)
+### [record locking](/record%20locking)
+
 ## minishell 실행 방법
 ```yml
 1. git clone 명령을 이용하여 서버에 clone합니다.
