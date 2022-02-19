@@ -1,6 +1,7 @@
 ## pipe
 
 - 한 프로세스에서 다른 프로세스로의 단방향 통신 채널이다.
+- read, write 명령으로 데이터를 주고 받는다.
 
 ```c
 #include<unistd.h>
